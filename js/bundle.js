@@ -1,15 +1,39 @@
 /******/ (function() { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
-/***/ 46:
+/***/ 116:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "fonts/cairo-Light.woff2";
+
+/***/ }),
+
+/***/ 150:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "fonts/cairo-ExtraLight.woff2";
+
+/***/ }),
+
+/***/ 218:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "images/projects/short/002-25-ve-001ym-005.jpg";
+
+/***/ }),
+
+/***/ 1046:
 /***/ (function(__unused_webpack_module, __unused_webpack___webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var bootstrap_js_dist_collapse__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(647);
+/* harmony import */ var bootstrap_js_dist_collapse__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(8647);
 /* harmony import */ var bootstrap_js_dist_collapse__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(bootstrap_js_dist_collapse__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var bootstrap_js_dist_dropdown__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(453);
+/* harmony import */ var bootstrap_js_dist_dropdown__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(2453);
 /* harmony import */ var bootstrap_js_dist_dropdown__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(bootstrap_js_dist_dropdown__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _load_assets_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(741);
+/* harmony import */ var _load_assets_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(8741);
 /* harmony import */ var _load_assets_js__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_load_assets_js__WEBPACK_IMPORTED_MODULE_2__);
 /** =====================================================================
  * Entry: assets/js/main.js
@@ -143,22 +167,365 @@ document.addEventListener('DOMContentLoaded', function () {
 
 /***/ }),
 
-/***/ 338:
-/***/ (function(module) {
+/***/ 1086:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
 
-function webpackEmptyContext(req) {
-	var e = new Error("Cannot find module '" + req + "'");
-	e.code = 'MODULE_NOT_FOUND';
-	throw e;
-}
-webpackEmptyContext.keys = function() { return []; };
-webpackEmptyContext.resolve = webpackEmptyContext;
-webpackEmptyContext.id = 338;
-module.exports = webpackEmptyContext;
+"use strict";
+module.exports = __webpack_require__.p + "fonts/inter-Black.woff2";
 
 /***/ }),
 
-/***/ 741:
+/***/ 1624:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "images/projects/long/0016-25-lve-001ym-008.jpg";
+
+/***/ }),
+
+/***/ 1805:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "images/slides/slide1.jpg";
+
+/***/ }),
+
+/***/ 1940:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "images/projects/long/017-25-3lve-001ya-02.jpg";
+
+/***/ }),
+
+/***/ 2005:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "images/projects/short/004-25-ve-008aa-001.jpg";
+
+/***/ }),
+
+/***/ 2134:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "images/projects/long/026-25-lve-012ma-007.jpg";
+
+/***/ }),
+
+/***/ 2967:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "images/projects/long/022-25-lve-001ym-002.jpg";
+
+/***/ }),
+
+/***/ 3001:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "images/projects/long/025-25-lve-012ma-005.jpg";
+
+/***/ }),
+
+/***/ 3020:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "images/projects/short/006-25-ve-008aa-002.jpg";
+
+/***/ }),
+
+/***/ 3311:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "images/projects/long/019-25-mlve-001ya-003.jpg";
+
+/***/ }),
+
+/***/ 3682:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "images/brand/logo.svg";
+
+/***/ }),
+
+/***/ 4875:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "images/brand/Icon.png";
+
+/***/ }),
+
+/***/ 4902:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "images/projects/short/009-25-ve-008aa-003.jpg";
+
+/***/ }),
+
+/***/ 4972:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "fonts/inter-Regular.woff2";
+
+/***/ }),
+
+/***/ 4994:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "images/projects/short/003-25-ve-008aa-001.jpg";
+
+/***/ }),
+
+/***/ 5170:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "images/projects/short/012-25-ve008aa-004.jpg";
+
+/***/ }),
+
+/***/ 5329:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "fonts/cairo-Black.woff2";
+
+/***/ }),
+
+/***/ 5412:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "images/projects/short/010-25-ve-008aa-003.jpg";
+
+/***/ }),
+
+/***/ 5537:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "images/projects/long/021-25-lve-001ym-001.jpg";
+
+/***/ }),
+
+/***/ 5708:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+var map = {
+	"./brand/Icon.png": 4875,
+	"./brand/logo.svg": 3682,
+	"./other/qrcode.jpg": 9977,
+	"./projects/long/0016-25-lve-001ym-008.jpg": 1624,
+	"./projects/long/017-25-3lve-001ya-02.jpg": 1940,
+	"./projects/long/018-25-mlve-001ya-002.jpg": 5899,
+	"./projects/long/019-25-mlve-001ya-003.jpg": 3311,
+	"./projects/long/020-25-mlve-001ya-004.jpg": 6904,
+	"./projects/long/021-25-lve-001ym-001.jpg": 5537,
+	"./projects/long/022-25-lve-001ym-002.jpg": 2967,
+	"./projects/long/023-25-lve-001ym-003.jpg": 8965,
+	"./projects/long/024-25-lve-001ym-004.jpg": 9503,
+	"./projects/long/025-25-lve-012ma-005.jpg": 3001,
+	"./projects/long/026-25-lve-012ma-007.jpg": 2134,
+	"./projects/short/001-25-ve-001ym-004.jpg": 8476,
+	"./projects/short/002-25-ve-001ym-005.jpg": 218,
+	"./projects/short/003-25-ve-008aa-001.jpg": 4994,
+	"./projects/short/004-25-ve-008aa-001.jpg": 2005,
+	"./projects/short/005-25-ve-008aa-001.jpg": 8488,
+	"./projects/short/006-25-ve-008aa-002.jpg": 3020,
+	"./projects/short/007-25-ve-008aa-002.jpg": 9881,
+	"./projects/short/008-25-ve-008aa-002.jpg": 8038,
+	"./projects/short/009-25-ve-008aa-003.jpg": 4902,
+	"./projects/short/010-25-ve-008aa-003.jpg": 5412,
+	"./projects/short/011-25-ve-008aa-004.jpg": 7250,
+	"./projects/short/012-25-ve008aa-004.jpg": 5170,
+	"./projects/short/013-25-ve-012ma-005.jpg": 7588,
+	"./projects/short/014-25-ve-012ma-006.jpg": 9468,
+	"./projects/short/015-25-ve-026km-003.jpg": 9927,
+	"./slides/slide1.jpg": 1805,
+	"./slides/slide2.jpg": 9666,
+	"./slides/slide3.jpg": 9663,
+	"./slides/slide4.jpg": 7700,
+	"./slides/slide5.jpg": 6225
+};
+
+
+function webpackContext(req) {
+	var id = webpackContextResolve(req);
+	return __webpack_require__(id);
+}
+function webpackContextResolve(req) {
+	if(!__webpack_require__.o(map, req)) {
+		var e = new Error("Cannot find module '" + req + "'");
+		e.code = 'MODULE_NOT_FOUND';
+		throw e;
+	}
+	return map[req];
+}
+webpackContext.keys = function webpackContextKeys() {
+	return Object.keys(map);
+};
+webpackContext.resolve = webpackContextResolve;
+module.exports = webpackContext;
+webpackContext.id = 5708;
+
+/***/ }),
+
+/***/ 5899:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "images/projects/long/018-25-mlve-001ya-002.jpg";
+
+/***/ }),
+
+/***/ 6225:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "images/slides/slide5.jpg";
+
+/***/ }),
+
+/***/ 6785:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "fonts/inter-Bold.woff2";
+
+/***/ }),
+
+/***/ 6904:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "images/projects/long/020-25-mlve-001ya-004.jpg";
+
+/***/ }),
+
+/***/ 7250:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "images/projects/short/011-25-ve-008aa-004.jpg";
+
+/***/ }),
+
+/***/ 7372:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "fonts/cairo-Regular.woff2";
+
+/***/ }),
+
+/***/ 7583:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "fonts/inter-SemiBold.woff2";
+
+/***/ }),
+
+/***/ 7588:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "images/projects/short/013-25-ve-012ma-005.jpg";
+
+/***/ }),
+
+/***/ 7700:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "images/slides/slide4.jpg";
+
+/***/ }),
+
+/***/ 8038:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "images/projects/short/008-25-ve-008aa-002.jpg";
+
+/***/ }),
+
+/***/ 8428:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+var map = {
+	"./cairo/cairo-Black.woff2": 5329,
+	"./cairo/cairo-Bold.woff2": 8705,
+	"./cairo/cairo-ExtraLight.woff2": 150,
+	"./cairo/cairo-Light.woff2": 116,
+	"./cairo/cairo-Regular.woff2": 7372,
+	"./cairo/cairo-SemiBold.woff2": 9647,
+	"./inter/inter-Black.woff2": 1086,
+	"./inter/inter-Bold.woff2": 6785,
+	"./inter/inter-ExtraLight.woff2": 9686,
+	"./inter/inter-Light.woff2": 9588,
+	"./inter/inter-Regular.woff2": 4972,
+	"./inter/inter-SemiBold.woff2": 7583
+};
+
+
+function webpackContext(req) {
+	var id = webpackContextResolve(req);
+	return __webpack_require__(id);
+}
+function webpackContextResolve(req) {
+	if(!__webpack_require__.o(map, req)) {
+		var e = new Error("Cannot find module '" + req + "'");
+		e.code = 'MODULE_NOT_FOUND';
+		throw e;
+	}
+	return map[req];
+}
+webpackContext.keys = function webpackContextKeys() {
+	return Object.keys(map);
+};
+webpackContext.resolve = webpackContextResolve;
+module.exports = webpackContext;
+webpackContext.id = 8428;
+
+/***/ }),
+
+/***/ 8476:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "images/projects/short/001-25-ve-001ym-004.jpg";
+
+/***/ }),
+
+/***/ 8488:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "images/projects/short/005-25-ve-008aa-001.jpg";
+
+/***/ }),
+
+/***/ 8705:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "fonts/cairo-Bold.woff2";
+
+/***/ }),
+
+/***/ 8741:
 /***/ (function(__unused_webpack_module, __unused_webpack_exports, __webpack_require__) {
 
 /** =====================================================================
@@ -173,32 +540,101 @@ module.exports = webpackEmptyContext;
  *   - حافظ على استخدام woff2 قدر الإمكان لتقليل الحجم.
  * آخر تحديث: 2025-09-02
  * ===================================================================== */
-// دالة مساعدة آمنة تحاول إنشاء context وإن فشل (المجلد غير موجود) تُعيد واجهة فارغة
-function safeContext(path, recursive, pattern, label) {
-  try {
-    const ctx = __webpack_require__(338).context(path, recursive, pattern);
-    ctx.keys().forEach(ctx);
-    return ctx;
-  } catch (err) {
-    if (process && process.env && "production" !== 'production') {}
-    return {
-      keys: () => [],
-      resolve: () => undefined,
-      id: null
-    };
-  }
-}
-
-// 📦 تحميل الصور (اختياري – لن ينهار إن لم يوجد المجلد)
-const images = safeContext('../images', true, /\.(png|jpe?g|gif|svg)$/i, 'images');
+// 📦 تحميل الصور
+const images = __webpack_require__(5708);
+images.keys().forEach(images);
 
 // 🔠 تحميل الخطوط
-const fonts = safeContext('../fonts', true, /\.(woff2?|eot|ttf|otf)$/i, 'fonts');
+const fonts = __webpack_require__(8428);
+fonts.keys().forEach(fonts);
 
-// 📄 تحميل ملفات PDF أو غيرها
-const files = safeContext('../files', true, /\.(pdf|docx?|xlsx?|zip)$/i, 'files');
+/***/ }),
 
-// إمكانية توسعة لاحقة: safeContext('../videos', true, /\.(mp4|webm)$/i, 'videos');
+/***/ 8965:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "images/projects/long/023-25-lve-001ym-003.jpg";
+
+/***/ }),
+
+/***/ 9468:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "images/projects/short/014-25-ve-012ma-006.jpg";
+
+/***/ }),
+
+/***/ 9503:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "images/projects/long/024-25-lve-001ym-004.jpg";
+
+/***/ }),
+
+/***/ 9588:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "fonts/inter-Light.woff2";
+
+/***/ }),
+
+/***/ 9647:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "fonts/cairo-SemiBold.woff2";
+
+/***/ }),
+
+/***/ 9663:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "images/slides/slide3.jpg";
+
+/***/ }),
+
+/***/ 9666:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "images/slides/slide2.jpg";
+
+/***/ }),
+
+/***/ 9686:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "fonts/inter-ExtraLight.woff2";
+
+/***/ }),
+
+/***/ 9881:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "images/projects/short/007-25-ve-008aa-002.jpg";
+
+/***/ }),
+
+/***/ 9927:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "images/projects/short/015-25-ve-026km-003.jpg";
+
+/***/ }),
+
+/***/ 9977:
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+"use strict";
+module.exports = __webpack_require__.p + "images/other/qrcode.jpg";
 
 /***/ })
 
@@ -290,6 +726,18 @@ const files = safeContext('../files', true, /\.(pdf|docx?|xlsx?|zip)$/i, 'files'
 /******/ 		};
 /******/ 	}();
 /******/ 	
+/******/ 	/* webpack/runtime/global */
+/******/ 	!function() {
+/******/ 		__webpack_require__.g = (function() {
+/******/ 			if (typeof globalThis === 'object') return globalThis;
+/******/ 			try {
+/******/ 				return this || new Function('return this')();
+/******/ 			} catch (e) {
+/******/ 				if (typeof window === 'object') return window;
+/******/ 			}
+/******/ 		})();
+/******/ 	}();
+/******/ 	
 /******/ 	/* webpack/runtime/hasOwnProperty shorthand */
 /******/ 	!function() {
 /******/ 		__webpack_require__.o = function(obj, prop) { return Object.prototype.hasOwnProperty.call(obj, prop); }
@@ -304,6 +752,29 @@ const files = safeContext('../files', true, /\.(pdf|docx?|xlsx?|zip)$/i, 'files'
 /******/ 			}
 /******/ 			Object.defineProperty(exports, '__esModule', { value: true });
 /******/ 		};
+/******/ 	}();
+/******/ 	
+/******/ 	/* webpack/runtime/publicPath */
+/******/ 	!function() {
+/******/ 		var scriptUrl;
+/******/ 		if (__webpack_require__.g.importScripts) scriptUrl = __webpack_require__.g.location + "";
+/******/ 		var document = __webpack_require__.g.document;
+/******/ 		if (!scriptUrl && document) {
+/******/ 			if (document.currentScript && document.currentScript.tagName.toUpperCase() === 'SCRIPT')
+/******/ 				scriptUrl = document.currentScript.src;
+/******/ 			if (!scriptUrl) {
+/******/ 				var scripts = document.getElementsByTagName("script");
+/******/ 				if(scripts.length) {
+/******/ 					var i = scripts.length - 1;
+/******/ 					while (i > -1 && (!scriptUrl || !/^http(s?):/.test(scriptUrl))) scriptUrl = scripts[i--].src;
+/******/ 				}
+/******/ 			}
+/******/ 		}
+/******/ 		// When supporting browsers where an automatic publicPath is not supported you must specify an output.publicPath manually via configuration
+/******/ 		// or pass an empty string ("") and set the __webpack_public_path__ variable from your code to use your own logic.
+/******/ 		if (!scriptUrl) throw new Error("Automatic publicPath is not supported in this browser");
+/******/ 		scriptUrl = scriptUrl.replace(/^blob:/, "").replace(/#.*$/, "").replace(/\?.*$/, "").replace(/\/[^\/]+$/, "/");
+/******/ 		__webpack_require__.p = scriptUrl + "../";
 /******/ 	}();
 /******/ 	
 /******/ 	/* webpack/runtime/jsonp chunk loading */
@@ -366,7 +837,7 @@ const files = safeContext('../files', true, /\.(pdf|docx?|xlsx?|zip)$/i, 'files'
 /******/ 	// startup
 /******/ 	// Load entry module and return exports
 /******/ 	// This entry module depends on other loaded chunks and execution need to be delayed
-/******/ 	var __webpack_exports__ = __webpack_require__.O(undefined, [121], function() { return __webpack_require__(46); })
+/******/ 	var __webpack_exports__ = __webpack_require__.O(undefined, [121], function() { return __webpack_require__(1046); })
 /******/ 	__webpack_exports__ = __webpack_require__.O(__webpack_exports__);
 /******/ 	
 /******/ })()
