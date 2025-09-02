@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://moabdelhalim2003.github.io/sitemap.xml
