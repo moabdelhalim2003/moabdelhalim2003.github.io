@@ -29,18 +29,16 @@ module.exports = __webpack_require__.p + "images/projects/short/002-25-ve-001ym-
 /***/ (function(__unused_webpack_module, __unused_webpack___webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var bootstrap_js_dist_collapse__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(8647);
-/* harmony import */ var bootstrap_js_dist_collapse__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(bootstrap_js_dist_collapse__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var bootstrap_js_dist_dropdown__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(2453);
-/* harmony import */ var bootstrap_js_dist_dropdown__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(bootstrap_js_dist_dropdown__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _load_assets_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(8741);
-/* harmony import */ var _load_assets_js__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_load_assets_js__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var bootstrap_dist_js_bootstrap_bundle_min_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(8736);
+/* harmony import */ var bootstrap_dist_js_bootstrap_bundle_min_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(bootstrap_dist_js_bootstrap_bundle_min_js__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _load_assets_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(8741);
+/* harmony import */ var _load_assets_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_load_assets_js__WEBPACK_IMPORTED_MODULE_1__);
 /** =====================================================================
  * Entry: assets/js/main.js
  * الغاية:
  *   نقطة دخول تجميع (Webpack Entry) تجمع الموارد (SCSS + JS) وتهيئ سلوكيات واجهة الموقع.
  * الوظائف الحالية:
- *   - استيراد أجزاء Bootstrap الضرورية (collapse, dropdown) فقط.
+ *   - تحميل Bootstrap (نسخة CSS) + الأنماط الرئيسية.
  *   - تحميل FontAwesome (نسخة CSS) + الأنماط الرئيسية.
  *   - إدارة حالة شريط التنقل (scroll -> إضافة/إزالة scrolled).
  *   - تفعيل زر رجوع ذكي (محاولة history.back مع fallback للرئيسية).
@@ -52,11 +50,9 @@ module.exports = __webpack_require__.p + "images/projects/short/002-25-ve-001ym-
  *   - قياس تفاعل (analytics events) ضمن requestIdleCallback.
  * ملاحظات أداء:
  *   - تجنب عمليات DOM مكثفة داخل scroll؛ حالياً العملية O(1).
- * آخر تحديث: 2025-09-02
+ * آخر تحديث: 2025-09-03
  * ===================================================================== */
 // ✅ استيراد مكتبات الطرف الثالث (Third-party libraries)
-// استيراد انتقائي من Bootstrap بدل الحزمة الكاملة لتقليل حجم vendor
-
 
 // استخدام نسخة CSS من Font Awesome بدل حزمة JS الضخمة
 
@@ -741,17 +737,6 @@ module.exports = __webpack_require__.p + "images/other/qrcode.jpg";
 /******/ 	/* webpack/runtime/hasOwnProperty shorthand */
 /******/ 	!function() {
 /******/ 		__webpack_require__.o = function(obj, prop) { return Object.prototype.hasOwnProperty.call(obj, prop); }
-/******/ 	}();
-/******/ 	
-/******/ 	/* webpack/runtime/make namespace object */
-/******/ 	!function() {
-/******/ 		// define __esModule on exports
-/******/ 		__webpack_require__.r = function(exports) {
-/******/ 			if(typeof Symbol !== 'undefined' && Symbol.toStringTag) {
-/******/ 				Object.defineProperty(exports, Symbol.toStringTag, { value: 'Module' });
-/******/ 			}
-/******/ 			Object.defineProperty(exports, '__esModule', { value: true });
-/******/ 		};
 /******/ 	}();
 /******/ 	
 /******/ 	/* webpack/runtime/publicPath */
